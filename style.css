@@ -1,0 +1,56 @@
+a {
+  color: #FF0090;
+    font-size: 30px;
+  font-family: raleway;
+}
+
+h1{
+  color: #DF00FF;
+  font-family: Noto Sans JP;
+}
+
+p{
+  color:  #010CF5;
+  padding-left: 450px;
+  padding-right: 450px;
+  font-family: raleway;
+}
+
+footer{
+  color: #FF0090;
+  background-color: #BEC0C4;
+   column-count: 2;
+}
+
+header{
+  background-color: #BEC0C4;
+  
+}
+ul {
+  list-style-type.buttonnone;
+  margin: 0;
+  padding: 0;
+}
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 20px;
+  padding-left: 30px;
+  background-coor: #00FFD6;
+}
+.button {
+  background-color: #DF00FF; 
+  border: none;
+  color: white;
+  padding: 20px 55px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+address{
+  font-size: 1px;
+}
